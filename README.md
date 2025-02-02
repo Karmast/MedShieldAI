@@ -12,7 +12,7 @@ MedShieldAI is an AI-powered tool that utilizes object detection and text recogn
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/karmast/MedShieldAI.git](https://github.com/Karmast/MedShieldAI.git)
+   git clone https://github.com/Karmast/MedShieldAI.git
    cd MedShieldAI
    ```
 2. Create a virtual environment (optional but recommended):
