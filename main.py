@@ -150,8 +150,8 @@ class StampDetector:
 # Example usage
 if __name__ == "__main__":
     model_path = "./model/best.pt"
-    output_dir = "./output"
-    image_dir = "./input"
+    output_dir = "./data/output"
+    image_dir = "./data/input"
 
     # Ensure the input directory exists
     if not os.path.exists(image_dir):
